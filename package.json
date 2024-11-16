@@ -2,7 +2,7 @@
   "name": "my-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/<repository-name>",
+  "homepage": "https://powderly12.github.io/design_website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
